@@ -119,6 +119,7 @@ See [Contributing](#contributing).
 
 ## Software
 
+- [MeterCall](https://metercall.ai) - 2,866+ SaaS alternatives. Pay per call, no subscription. Open catalog at [patl4588/awesome-saas-replacements](https://github.com/patl4588/awesome-saas-replacements).
 ### Analytics
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
